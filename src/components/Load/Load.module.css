@@ -1,0 +1,14 @@
+.wrapper {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: cornflowerblue;
+	color: white;
+}
+
+.wrapper span {
+	display: block;
+	font-size: 40px;
+}
